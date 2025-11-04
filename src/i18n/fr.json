@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits", 
+    "pricing": "Tarifs",
+    "process": "Processus",
+    "gallery": "Galerie",
+    "partners": "Partenaires", 
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "quote": "Devis"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "getStarted": "Commencer",
+    "contactUs": "Nous contacter",
+    "getQuote": "Obtenir un devis",
+    "whatsapp": "WhatsApp",
+    "phone": "Téléphone",
+    "email": "Email",
+    "name": "Nom",
+    "message": "Message",
+    "submit": "Envoyer",
+    "loading": "Chargement...",
+    "success": "Succès !",
+    "error": "Erreur",
+    "close": "Fermer",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "all": "Tout",
+    "yes": "Oui",
+    "no": "Non",
+    "or": "ou",
+    "and": "et"
+  },
+  "hero": {
+    "title": "Cuisines PVC durables pour le climat haïtien",
+    "subtitle": "Armoires de cuisine PVC imperméables, résistantes à la pourriture et aux termites—plus mobilier bureau, dressing et vanité—prêtes pour installation rapide.",
+    "cta1": "Devis Gratuit en 48h",
+    "cta2": "Écrire sur WhatsApp",
+    "trustText": "Déjà 500+ familles et entreprises nous font confiance"
+  },
+  "whyPvc": {
+    "title": "Pourquoi le PVC en Haïti ?",
+    "subtitle": "Notre climat est chaud et humide. Les armoires de cuisine PVC sont conçues pour cela.",
+    "benefits": {
+      "moisture": {
+        "title": "Résistant à l'humidité",
+        "description": "Ne gonfle pas, ne pourrit pas pendant les saisons pluvieuses"
+      },
+      "pests": {
+        "title": "Aucun problème d'insectes/termites",
+        "description": "Les insectes ne peuvent pas manger le PVC—pas de problèmes de termites"
+      },
+      "cleaning": {
+        "title": "Nettoyage facile",
+        "description": "Un peu de savon et d'eau, et c'est parfaitement propre"
+      },
+      "transport": {
+        "title": "Plus léger pour le transport",
+        "description": "Facile à monter dans les dépôts des zones difficiles"
+      },
+      "eco": {
+        "title": "Bon pour l'environnement",
+        "description": "Impact environnemental moindre : moins d'abattage d'arbres"
+      }
+    }
+  },
+  "comparison": {
+    "title": "PVC vs. Bois : Comparaison",
+    "pvc": "PVC",
+    "wood": "Bois",
+    "criteria": {
+      "moisture": "Résistance à l'humidité",
+      "maintenance": "Entretien",
+      "durability": "Durabilité",
+      "cost5year": "Coût sur 5 ans",
+      "installation": "Installation",
+      "termites": "Problème de termites"
+    },
+    "ratings": {
+      "excellent": "Excellent",
+      "good": "Bon",
+      "fair": "Moyen",
+      "poor": "Mauvais"
+    }
+  },
+  "process": {
+    "title": "Comment nous travaillons ?",
+    "subtitle": "Seulement 4 étapes pour votre nouvelle cuisine",
+    "steps": {
+      "measure": {
+        "title": "1. Mesure",
+        "description": "Nous venons mesurer votre espace gratuitement—ou vous pouvez suivre notre guide"
+      },
+      "design": {
+        "title": "2. Conseil",
+        "description": "Nous vous conseillons sur les modèles et couleurs qui vous conviennent le mieux"
+      },
+      "manufacture": {
+        "title": "3. Fabrication",
+        "description": "Nous fabriquons vos armoires dans notre atelier avec précision"
+      },
+      "install": {
+        "title": "4. Installation",
+        "description": "Nous venons les installer chez vous—rapidement et proprement"
+      }
+    }
+  },
+  "projects": {
+    "title": "Nos projets",
+    "subtitle": "Découvrez ce que nous avons déjà réalisé en Haïti",
+    "viewAll": "Voir tous les projets",
+    "beforeAfter": "Avant et Après"
+  },
+  "testimonials": {
+    "title": "Ce que disent les clients",
+    "subtitle": "Témoignages de clients satisfaits"
+  },
+  "otherProducts": {
+    "title": "Plus que des cuisines",
+    "subtitle": "Nous créons également des meubles PVC pour bureau, dressing et salle de bain",
+    "office": {
+      "title": "Bureau & Standing Desk",
+      "description": "Meubles de bureau modernes et ergonomiques"
+    },
+    "closet": {
+      "title": "Walk-in Closet",
+      "description": "Systèmes de rangement sur mesure"
+    },
+    "vanity": {
+      "title": "Vanité Salle de Bain",
+      "description": "Vanités doubles et simples résistantes à l'humidité"
+    }
+  },
+  "cta": {
+    "title": "Prêt à commencer ?",
+    "subtitle": "Obtenez votre devis gratuit aujourd'hui",
+    "phone": "Appelez-nous",
+    "whatsapp": "Écrire sur WhatsApp",
+    "form": "Remplir le formulaire"
+  },
+  "products": {
+    "title": "Nos produits",
+    "subtitle": "Armoires cuisine et mobilier PVC",
+    "categories": {
+      "base": "Armoires Cuisine Base",
+      "wall": "Armoires Cuisine Murales",
+      "tall": "Armoires Cuisine Hautes",
+      "vanity": "Vanités Salle de Bain",
+      "office": "Mobilier Bureau / Desk",
+      "closet": "Systèmes Dressing"
+    },
+    "features": {
+      "waterproof": "100% étanche",
+      "termiteProof": "Protection termites",
+      "easyClean": "Nettoyage facile",
+      "durable": "Durable",
+      "lightweight": "Léger",
+      "customizable": "Personnalisable"
+    }
+  },
+  "pricing": {
+    "title": "Tarifs et Économies",
+    "subtitle": "Tarification transparente avec calculateur d'économies sur 5 ans",
+    "packages": {
+      "small": {
+        "title": "Petite Cuisine",
+        "size": "Jusqu'à 15m²",
+        "price": "HTG 45,000 - 75,000"
+      },
+      "medium": {
+        "title": "Cuisine Moyenne",
+        "size": "15-25m²",
+        "price": "HTG 75,000 - 120,000"
+      },
+      "large": {
+        "title": "Grande Cuisine",
+        "size": "25m² et plus",
+        "price": "HTG 120,000+"
+      }
+    },
+    "calculator": {
+      "title": "Calculateur d'Économies sur 5 Ans",
+      "subtitle": "Voyez combien le PVC peut vous faire économiser",
+      "inputs": {
+        "size": "Taille de la cuisine (m²)",
+        "humidity": "Niveau d'humidité",
+        "maintenance": "Pourcentage d'entretien du bois par an (%)",
+        "replacement": "Risque de remplacement du bois (%)"
+      },
+      "results": {
+        "savings": "Économies avec PVC",
+        "breakeven": "Égalité à",
+        "total5year": "Total sur 5 ans"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour répondre à toutes vos questions",
+    "form": {
+      "name": "Nom complet",
+      "phone": "Téléphone / WhatsApp",
+      "email": "Email (optionnel)",
+      "city": "Ville",
+      "roomType": "Type de pièce",
+      "dimensions": "Dimensions",
+      "width": "Largeur (m)",
+      "depth": "Profondeur (m)",
+      "height": "Hauteur (m)",
+      "budget": "Budget",
+      "timeline": "Délai",
+      "message": "Message (optionnel)",
+      "attachments": "Photos ou plans (optionnel)"
+    },
+    "cities": {
+      "pap": "Port-au-Prince",
+      "cap": "Cap-Haïtien",
+      "gonaives": "Gonaïves",
+      "jacmel": "Jacmel",
+      "cayes": "Les Cayes",
+      "fort": "Fort-Dauphin",
+      "other": "Autre"
+    },
+    "roomTypes": {
+      "kitchen": "Cuisine",
+      "bathroom": "Salle de bain / Vanité",
+      "closet": "Dressing / Walk-in",
+      "office": "Bureau / Standing Desk",
+      "other": "Autre"
+    },
+    "budgets": {
+      "under50k": "Moins de HTG 50,000",
+      "50k100k": "HTG 50,000 - 100,000",
+      "100k200k": "HTG 100,000 - 200,000",
+      "200k500k": "HTG 200,000 - 500,000",
+      "over500k": "Plus de HTG 500,000"
+    },
+    "timelines": {
+      "0-3months": "0-3 mois",
+      "3-6months": "3-6 mois",
+      "6-12months": "6-12 mois",
+      "over12months": "Plus d'1 an"
+    }
+  },
+  "footer": {
+    "company": "PVC Cabinets Haiti by Zewo",
+    "description": "Les meilleures armoires PVC en Haïti—durables, propres et rapides à installer.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales"
+  },
+  "seo": {
+    "home": {
+      "title": "PVC Cabinets Haiti by Zewo - Cuisines durables pour le climat haïtien",
+      "description": "Armoires PVC imperméables, résistantes à la pourriture et aux termites. Prêtes pour une installation rapide dans le climat haïtien. Devis gratuit en 48h."
+    },
+    "products": {
+      "title": "Produits Armoires PVC - Collection Complète | PVC Cabinets Haiti",
+      "description": "Découvrez notre collection complète d'armoires PVC : base, murales, hautes et salle de bain. Imperméables et sans termites."
+    },
+    "pricing": {
+      "title": "Tarifs Armoires PVC et Calculateur d'Économies | PVC Cabinets Haiti",
+      "description": "Tarification transparente avec calculateur montrant les économies PVC vs bois sur 5 ans. À partir de HTG 45,000."
+    }
+  }
+}

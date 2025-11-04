@@ -1,0 +1,126 @@
+[
+  {
+    "id": "base-line",
+    "name": {
+      "ht": "Seri Debazi",
+      "fr": "Série Base",
+      "en": "Base Line"
+    },
+    "description": {
+      "ht": "Kabann debazi ki solid ak depo anpil pou kizin ak salbeyen yo.",
+      "fr": "Armoires de base solides avec beaucoup de rangement pour cuisines et salles de bain.",
+      "en": "Solid base cabinets with plenty of storage for kitchens and bathrooms."
+    },
+    "category": "base",
+    "features": [
+      "Soft-close hinges",
+      "Adjustable shelves",
+      "Full extension drawers",
+      "Waterproof construction"
+    ],
+    "dimensions": {
+      "width": "30-90cm",
+      "depth": "55-60cm",
+      "height": "85cm"
+    },
+    "finishes": ["white-gloss", "cream-matte", "mahogany-grain", "grey-modern"],
+    "priceRange": {
+      "min": 8500,
+      "max": 25000
+    },
+    "image": "/images/products/base-line.jpg"
+  },
+  {
+    "id": "wall-line",
+    "name": {
+      "ht": "Seri Akote",
+      "fr": "Série Murale",
+      "en": "Wall Line"
+    },
+    "description": {
+      "ht": "Kabann akote ki maksimize depo vertikal yo ak aksè fasil.",
+      "fr": "Armoires murales qui maximisent le rangement vertical avec accès facile.",
+      "en": "Wall cabinets that maximize vertical storage with easy access."
+    },
+    "category": "wall",
+    "features": [
+      "Glass door options",
+      "LED lighting ready",
+      "Multiple heights",
+      "Easy installation"
+    ],
+    "dimensions": {
+      "width": "30-120cm",
+      "depth": "30-35cm",
+      "height": "60-90cm"
+    },
+    "finishes": ["white-gloss", "cream-matte", "oak-natural", "grey-modern"],
+    "priceRange": {
+      "min": 6000,
+      "max": 18000
+    },
+    "image": "/images/products/wall-line.jpg"
+  },
+  {
+    "id": "tall-line",
+    "name": {
+      "ht": "Seri Wo",
+      "fr": "Série Haute",
+      "en": "Tall Line"
+    },
+    "description": {
+      "ht": "Kabann wo pou maksimòm depo ak solisyon òganizasyon.",
+      "fr": "Armoires hautes pour maximum de rangement avec solutions d'organisation.",
+      "en": "Tall cabinets for maximum storage with organization solutions."
+    },
+    "category": "tall",
+    "features": [
+      "Full height storage",
+      "Internal organizers",
+      "Pantry configurations",
+      "Utility storage"
+    ],
+    "dimensions": {
+      "width": "45-90cm",
+      "depth": "55-60cm",
+      "height": "210-240cm"
+    },
+    "finishes": ["white-gloss", "mahogany-grain", "oak-natural", "walnut-dark"],
+    "priceRange": {
+      "min": 18000,
+      "max": 45000
+    },
+    "image": "/images/products/tall-line.jpg"
+  },
+  {
+    "id": "vanity-line",
+    "name": {
+      "ht": "Seri Salbeyen",
+      "fr": "Série Vanité",
+      "en": "Vanity Line"
+    },
+    "description": {
+      "ht": "Kabann salbeyen ak akseswa ak rezistans imidite total.",
+      "fr": "Armoires de salle de bain avec accessoires et résistance totale à l'humidité.",
+      "en": "Bathroom cabinets with accessories and total moisture resistance."
+    },
+    "category": "vanity",
+    "features": [
+      "100% waterproof",
+      "Integrated sinks",
+      "Mirror combinations",
+      "Anti-bacterial surface"
+    ],
+    "dimensions": {
+      "width": "45-150cm",
+      "depth": "45-55cm",
+      "height": "80-85cm"
+    },
+    "finishes": ["white-gloss", "grey-modern", "oak-natural", "black-matte"],
+    "priceRange": {
+      "min": 12000,
+      "max": 35000
+    },
+    "image": "/images/products/vanity-line.jpg"
+  }
+]

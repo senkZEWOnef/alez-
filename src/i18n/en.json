@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "pricing": "Pricing",
+    "process": "Process",
+    "gallery": "Gallery",
+    "partners": "Partners",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "quote": "Quote"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "getStarted": "Get started",
+    "contactUs": "Contact us",
+    "getQuote": "Get quote",
+    "whatsapp": "WhatsApp",
+    "phone": "Phone",
+    "email": "Email",
+    "name": "Name",
+    "message": "Message",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "success": "Success!",
+    "error": "Error",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "all": "All",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "and": "and"
+  },
+  "hero": {
+    "title": "PVC Kitchens that last in Haiti's climate",
+    "subtitle": "PVC kitchen cabinets that are waterproof, rot-resistant, and termite-free—plus office furniture, closets and vanities—ready for quick installation.",
+    "cta1": "Get Free 48h Quote",
+    "cta2": "Message on WhatsApp",
+    "trustText": "Already 500+ families and businesses trust us"
+  },
+  "whyPvc": {
+    "title": "Why PVC in Haiti?",
+    "subtitle": "Our climate is hot and humid. PVC kitchen cabinets are designed for this.",
+    "benefits": {
+      "moisture": {
+        "title": "Moisture resistant",
+        "description": "Won't swell or rot during rainy seasons"
+      },
+      "pests": {
+        "title": "No pest/termite problems",
+        "description": "Insects can't eat PVC—no termite issues"
+      },
+      "cleaning": {
+        "title": "Easy cleaning",
+        "description": "A little soap and water, and they're perfectly clean"
+      },
+      "transport": {
+        "title": "Lighter for transport",
+        "description": "Easy to get into storage in difficult areas"
+      },
+      "eco": {
+        "title": "Good for environment",
+        "description": "Lower environmental impact: less tree cutting"
+      }
+    }
+  },
+  "comparison": {
+    "title": "PVC vs. Wood: Comparison",
+    "pvc": "PVC",
+    "wood": "Wood",
+    "criteria": {
+      "moisture": "Moisture resistance",
+      "maintenance": "Maintenance",
+      "durability": "Durability",
+      "cost5year": "5-year cost",
+      "installation": "Installation",
+      "termites": "Termite problems"
+    },
+    "ratings": {
+      "excellent": "Excellent",
+      "good": "Good",
+      "fair": "Fair",
+      "poor": "Poor"
+    }
+  },
+  "process": {
+    "title": "How do we work?",
+    "subtitle": "Just 4 steps to your new kitchen",
+    "steps": {
+      "measure": {
+        "title": "1. Measure",
+        "description": "We come measure your space for free—or you can follow our guide"
+      },
+      "design": {
+        "title": "2. Design",
+        "description": "We advise you on models and colors that suit you best"
+      },
+      "manufacture": {
+        "title": "3. Manufacture",
+        "description": "We manufacture your cabinets in our workshop with precision"
+      },
+      "install": {
+        "title": "4. Install",
+        "description": "We come install them in your home—quickly and cleanly"
+      }
+    }
+  },
+  "projects": {
+    "title": "Our projects",
+    "subtitle": "See what we've already done in Haiti",
+    "viewAll": "View all projects",
+    "beforeAfter": "Before and After"
+  },
+  "testimonials": {
+    "title": "What clients say",
+    "subtitle": "Testimonials from satisfied customers"
+  },
+  "otherProducts": {
+    "title": "More than kitchens",
+    "subtitle": "We also create PVC furniture for office, closets and bathrooms",
+    "office": {
+      "title": "Office & Standing Desk",
+      "description": "Modern and ergonomic office furniture"
+    },
+    "closet": {
+      "title": "Walk-in Closet",
+      "description": "Custom storage systems"
+    },
+    "vanity": {
+      "title": "Bathroom Vanity",
+      "description": "Double and single vanities resistant to humidity"
+    }
+  },
+  "cta": {
+    "title": "Ready to start?",
+    "subtitle": "Get your free quote today",
+    "phone": "Call us",
+    "whatsapp": "Message on WhatsApp",
+    "form": "Fill out the form"
+  },
+  "products": {
+    "title": "Our products",
+    "subtitle": "Kitchen cabinets and PVC furniture",
+    "categories": {
+      "base": "Kitchen Base Cabinets",
+      "wall": "Kitchen Wall Cabinets",
+      "tall": "Kitchen Tall Cabinets",
+      "vanity": "Bathroom Vanities",
+      "office": "Office Furniture / Desks",
+      "closet": "Closet Systems"
+    },
+    "features": {
+      "waterproof": "100% waterproof",
+      "termiteProof": "Termite protection",
+      "easyClean": "Easy cleaning",
+      "durable": "Durable",
+      "lightweight": "Lightweight",
+      "customizable": "Customizable"
+    }
+  },
+  "pricing": {
+    "title": "Pricing and Savings",
+    "subtitle": "Transparent pricing with 5-year savings calculator",
+    "packages": {
+      "small": {
+        "title": "Small Kitchen",
+        "size": "Up to 15m²",
+        "price": "HTG 45,000 - 75,000"
+      },
+      "medium": {
+        "title": "Medium Kitchen",
+        "size": "15-25m²",
+        "price": "HTG 75,000 - 120,000"
+      },
+      "large": {
+        "title": "Large Kitchen",
+        "size": "25m² and more",
+        "price": "HTG 120,000+"
+      }
+    },
+    "calculator": {
+      "title": "5-Year Savings Calculator",
+      "subtitle": "See how much PVC can save you",
+      "inputs": {
+        "size": "Kitchen size (m²)",
+        "humidity": "Humidity level",
+        "maintenance": "Wood maintenance percentage per year (%)",
+        "replacement": "Wood replacement risk (%)"
+      },
+      "results": {
+        "savings": "Savings with PVC",
+        "breakeven": "Break-even at",
+        "total5year": "5-year total"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "We're here to answer all your questions",
+    "form": {
+      "name": "Full name",
+      "phone": "Phone / WhatsApp",
+      "email": "Email (optional)",
+      "city": "City",
+      "roomType": "Room type",
+      "dimensions": "Dimensions",
+      "width": "Width (m)",
+      "depth": "Depth (m)",
+      "height": "Height (m)",
+      "budget": "Budget",
+      "timeline": "Timeline",
+      "message": "Message (optional)",
+      "attachments": "Photos or plans (optional)"
+    },
+    "cities": {
+      "pap": "Port-au-Prince",
+      "cap": "Cap-Haïtien",
+      "gonaives": "Gonaïves",
+      "jacmel": "Jacmel",
+      "cayes": "Les Cayes",
+      "fort": "Fort-Dauphin",
+      "other": "Other"
+    },
+    "roomTypes": {
+      "kitchen": "Kitchen",
+      "bathroom": "Bathroom / Vanity",
+      "closet": "Closet / Walk-in",
+      "office": "Office / Standing Desk",
+      "other": "Other"
+    },
+    "budgets": {
+      "under50k": "Under HTG 50,000",
+      "50k100k": "HTG 50,000 - 100,000",
+      "100k200k": "HTG 100,000 - 200,000",
+      "200k500k": "HTG 200,000 - 500,000",
+      "over500k": "Over HTG 500,000"
+    },
+    "timelines": {
+      "0-3months": "0-3 months",
+      "3-6months": "3-6 months",
+      "6-12months": "6-12 months",
+      "over12months": "Over 1 year"
+    }
+  },
+  "footer": {
+    "company": "PVC Cabinets Haiti by Zewo",
+    "description": "The best PVC cabinets in Haiti—durable, clean, and quick to install.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved",
+    "privacy": "Privacy policy",
+    "terms": "Terms and conditions"
+  },
+  "seo": {
+    "home": {
+      "title": "PVC Cabinets Haiti by Zewo - Kitchens that last in Haiti's climate",
+      "description": "PVC cabinets that are waterproof, rot-resistant, and termite-free. Ready for quick installation in Haiti's climate. Free 48h quote."
+    },
+    "products": {
+      "title": "PVC Cabinet Products - Complete Collection | PVC Cabinets Haiti",
+      "description": "Discover our complete collection of PVC cabinets: base, wall, tall, and vanity. Waterproof and termite-free."
+    },
+    "pricing": {
+      "title": "PVC Cabinet Pricing and Savings Calculator | PVC Cabinets Haiti",
+      "description": "Transparent pricing with calculator showing PVC vs wood savings over 5 years. Starting from HTG 45,000."
+    }
+  }
+}

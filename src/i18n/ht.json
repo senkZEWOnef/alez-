@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "Akèy",
+    "products": "Pwodwi yo",
+    "pricing": "Pri yo",
+    "process": "Pwosèdi a",
+    "gallery": "Galèri",
+    "partners": "Patnè yo",
+    "about": "Sou nou",
+    "blog": "Blog",
+    "contact": "Kontak",
+    "quote": "Devis"
+  },
+  "common": {
+    "learnMore": "Aprann plis",
+    "getStarted": "Kòmanse",
+    "contactUs": "Kontak nou",
+    "getQuote": "Jwenn devis",
+    "whatsapp": "WhatsApp",
+    "phone": "Telefòn",
+    "email": "Imèl",
+    "name": "Non",
+    "message": "Mesaj",
+    "submit": "Voye",
+    "loading": "Y ap chaje...",
+    "success": "Siksè!",
+    "error": "Erè",
+    "close": "Fèmen",
+    "next": "Pwochen",
+    "previous": "Avan",
+    "save": "Sove",
+    "cancel": "Anile",
+    "edit": "Modifye",
+    "delete": "Efase",
+    "search": "Chèche",
+    "filter": "Filtre",
+    "sort": "Klase",
+    "all": "Tout",
+    "yes": "Wi",
+    "no": "Non",
+    "or": "oswa",
+    "and": "ak"
+  },
+  "hero": {
+    "title": "Kizin PVC ki dire nan klima Ayiti",
+    "subtitle": "Kabann kizin PVC ki pa pran dlo, pa pouri, pa gen pwoblèm tèrmit—ak mèb biwo, depo rad ak vanity—pare pou enstalasyon rapid.",
+    "cta1": "Jwenn Devis Gratis an 48h",
+    "cta2": "Ekri sou WhatsApp",
+    "trustText": "Deja 500+ fanmi ak biznis ki konfyans nan nou"
+  },
+  "whyPvc": {
+    "title": "Poukisa PVC nan Ayiti?",
+    "subtitle": "Klima nou an gen chalè ak imidite. Kabann kizin PVC yo fèt pou sa.",
+    "benefits": {
+      "moisture": {
+        "title": "Reziste imidite",
+        "description": "Pa pran dlo, pa pouri nan sezon lapli yo"
+      },
+      "pests": {
+        "title": "Pa pran tèmni/termit",
+        "description": "Ensèk yo pa ka manje PVC—pa gen pwoblèm ak termit"
+      },
+      "cleaning": {
+        "title": "Netwaye fasil",
+        "description": "Yon ti savon ak dlo, epi yo vin pwòp nèt"
+      },
+      "transport": {
+        "title": "Pi lejè pou transpò",
+        "description": "Fasil pou monte nan depo a nan zonn ki difisil"
+      },
+      "eco": {
+        "title": "Bon pou anviwònman an",
+        "description": "Menas anviwònman an pi piti: mwens koupe pyebwa"
+      }
+    }
+  },
+  "comparison": {
+    "title": "PVC vs. Bwa: Konparezon",
+    "pvc": "PVC",
+    "wood": "Bwa",
+    "criteria": {
+      "moisture": "Rezistans imidite",
+      "maintenance": "Entretien",
+      "durability": "Dirab",
+      "cost5year": "Depans 5 ane",
+      "installation": "Enstalasyon",
+      "termites": "Pwoblèm termit"
+    },
+    "ratings": {
+      "excellent": "Ekselan",
+      "good": "Bon",
+      "fair": "Mwayèn",
+      "poor": "Move"
+    }
+  },
+  "process": {
+    "title": "Ki jan nou travay la?",
+    "subtitle": "Sèlman 4 etap pou kizin nouvo ou a",
+    "steps": {
+      "measure": {
+        "title": "1. Mezi",
+        "description": "Nou vin mezire espas ou a gratis—oswa ou ka suiv gid nou an"
+      },
+      "design": {
+        "title": "2. Konsèy",
+        "description": "Nou konsèye ou ak modèl ak koulè ki pi bon pou ou"
+      },
+      "manufacture": {
+        "title": "3. Fabrike",
+        "description": "Nou fabrike kabann ou yo nan atèlye nou an ak presizyon"
+      },
+      "install": {
+        "title": "4. Enstale",
+        "description": "Nou vin enstale yo nan kay ou a—rapid ak pwòp"
+      }
+    }
+  },
+  "projects": {
+    "title": "Pwojè nou yo",
+    "subtitle": "Gade kisa nou deja fè nan Ayiti",
+    "viewAll": "Gade tout pwojè yo",
+    "beforeAfter": "Avan ak Apre"
+  },
+  "testimonials": {
+    "title": "Sa kliyan yo di",
+    "subtitle": "Pawòl kliyan ki kontan yo"
+  },
+  "otherProducts": {
+    "title": "Pi plis pase kizin yo",
+    "subtitle": "Nou kreye tou mèb PVC pou biwo, depo rad ak salbeyen",
+    "office": {
+      "title": "Biwo ak Standing Desk",
+      "description": "Mèb biwo modèn ak ergonomic"
+    },
+    "closet": {
+      "title": "Walk-in Closet",
+      "description": "Sistèm depo rad sou mezi"
+    },
+    "vanity": {
+      "title": "Vanité Salbeyen",
+      "description": "Vanité double ak senp ki reziste imidite"
+    }
+  },
+  "cta": {
+    "title": "Pare pou kòmanse?",
+    "subtitle": "Jwenn devis gratis ou an jodi a",
+    "phone": "Rele nou",
+    "whatsapp": "Ekri sou WhatsApp",
+    "form": "Ranpli fòm nan"
+  },
+  "products": {
+    "title": "Pwodwi nou yo",
+    "subtitle": "Kabann kizin ak mèb PVC yo",
+    "categories": {
+      "base": "Kabann Kizin Debazi",
+      "wall": "Kabann Kizin Akote",
+      "tall": "Kabann Kizin Wo",
+      "vanity": "Kabann Salbeyen / Vanity",
+      "office": "Mèb Biwo / Desk",
+      "closet": "Sistèm Depo Rad"
+    },
+    "features": {
+      "waterproof": "100% étanche",
+      "termiteProof": "Pwoteksyon termit",
+      "easyClean": "Netwaye fasil",
+      "durable": "Dire lontan",
+      "lightweight": "Lejè",
+      "customizable": "Ka personnalise"
+    }
+  },
+  "pricing": {
+    "title": "Pri ak Ekonomi",
+    "subtitle": "Prezasyon ak kalkilè ekonomi 5 ane",
+    "packages": {
+      "small": {
+        "title": "Kizin Ti",
+        "size": "Jiska 15m²",
+        "price": "HTG 45,000 - 75,000"
+      },
+      "medium": {
+        "title": "Kizin Mwayèn",
+        "size": "15-25m²", 
+        "price": "HTG 75,000 - 120,000"
+      },
+      "large": {
+        "title": "Kizin Gwo",
+        "size": "25m² ak plis",
+        "price": "HTG 120,000+"
+      }
+    },
+    "calculator": {
+      "title": "Kalkilè Ekonomi 5 Ane",
+      "subtitle": "Gade konbyen PVC ka ekonomize pou ou",
+      "inputs": {
+        "size": "Gwosè kizin (m²)",
+        "humidity": "Nivo imidite",
+        "maintenance": "Pourcentaj entretien bwa chak ane (%)",
+        "replacement": "Risk chanje bwa (%)"
+      },
+      "results": {
+        "savings": "Ekonomi ak PVC",
+        "breakeven": "Egale nan",
+        "total5year": "Total 5 ane"
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontak nou",
+    "subtitle": "Nou la pou reponn tout kesyon ou yo",
+    "form": {
+      "name": "Non konplè",
+      "phone": "Telefòn / WhatsApp",
+      "email": "Imèl (opsyonèl)",
+      "city": "Vil",
+      "roomType": "Ki tip chanm",
+      "dimensions": "Dimansyon",
+      "width": "Lajè (m)",
+      "depth": "Pwofondè (m)", 
+      "height": "Wotè (m)",
+      "budget": "Bidjè",
+      "timeline": "Delè",
+      "message": "Mesaj (opsyonèl)",
+      "attachments": "Foto oswa depi (opsyonèl)"
+    },
+    "cities": {
+      "pap": "Pòtoprens",
+      "cap": "Kap-Ayisyen",
+      "gonaives": "Gonayiv",
+      "jacmel": "Jakmèl",
+      "cayes": "Okay",
+      "fort": "Fò-Dauphin",
+      "other": "Lòt kote"
+    },
+    "roomTypes": {
+      "kitchen": "Kizin",
+      "bathroom": "Salbeyen / Vanity",
+      "closet": "Depo Rad / Walk-in Closet",
+      "office": "Biwo / Standing Desk",
+      "other": "Lòt"
+    },
+    "budgets": {
+      "under50k": "Mwens pase HTG 50,000",
+      "50k100k": "HTG 50,000 - 100,000",
+      "100k200k": "HTG 100,000 - 200,000", 
+      "200k500k": "HTG 200,000 - 500,000",
+      "over500k": "Plis pase HTG 500,000"
+    },
+    "timelines": {
+      "0-3months": "0-3 mwa",
+      "3-6months": "3-6 mwa",
+      "6-12months": "6-12 mwa",
+      "over12months": "Plis pase 1 ane"
+    }
+  },
+  "footer": {
+    "company": "PVC Cabinets Haiti by Zewo",
+    "description": "Kabann PVC ki pi bon nan Ayiti—dire, pwòp, ak rapid pou enstale.",
+    "quickLinks": "Lyen Rapid",
+    "contact": "Kontak",
+    "followUs": "Suiv nou",
+    "rights": "Tout dwa rezève",
+    "privacy": "Politik vi prive",
+    "terms": "Tèm ak kondisyon"
+  },
+  "seo": {
+    "home": {
+      "title": "PVC Cabinets Haiti by Zewo - Kizin ki dire nan klima Ayiti",
+      "description": "Kabann PVC ki pa pran dlo, pa pouri, pa gen pwoblèm tèrmit. Pare pou enstalasyon rapid nan klima Ayiti. Devis gratis an 48h."
+    },
+    "products": {
+      "title": "Pwodwi Kabann PVC - Koleksyon Konplè | PVC Cabinets Haiti",
+      "description": "Dekouvri koleksyon konplè kabann PVC nou an: kabann debazi, akote, wo, ak salbeyen. Waterproof ak san termit."
+    },
+    "pricing": {
+      "title": "Pri Kabann PVC ak Kalkilè Ekonomi | PVC Cabinets Haiti",
+      "description": "Pri transparan ak kalkilè pou montre konbyen PVC ka ekonomize pase bwa nan 5 ane. Kòmanse nan HTG 45,000."
+    }
+  }
+}

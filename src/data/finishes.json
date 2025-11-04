@@ -1,0 +1,122 @@
+[
+  {
+    "id": "white-gloss",
+    "name": {
+      "ht": "Blan Klè",
+      "fr": "Blanc Brillant",
+      "en": "White Gloss"
+    },
+    "color": "#FFFFFF",
+    "description": {
+      "ht": "Klè ak pwòp, bon pou tout kizin",
+      "fr": "Lumineux et propre, parfait pour toute cuisine",
+      "en": "Bright and clean, perfect for any kitchen"
+    },
+    "category": "solid"
+  },
+  {
+    "id": "cream-matte",
+    "name": {
+      "ht": "Krèm Mat",
+      "fr": "Crème Mat",
+      "en": "Cream Matte"
+    },
+    "color": "#F5F5DC",
+    "description": {
+      "ht": "Dous ak chalè, pa gen reflè",
+      "fr": "Doux et chaleureux, sans reflets",
+      "en": "Soft and warm, no glare"
+    },
+    "category": "solid"
+  },
+  {
+    "id": "mahogany-grain",
+    "name": {
+      "ht": "Grenn Acajou",
+      "fr": "Grain Acajou",
+      "en": "Mahogany Grain"
+    },
+    "color": "#8B4513",
+    "description": {
+      "ht": "Imitasyon bwa acajou tradisyonèl",
+      "fr": "Imitation bois d'acajou traditionnel",
+      "en": "Traditional mahogany wood imitation"
+    },
+    "category": "wood-grain"
+  },
+  {
+    "id": "oak-natural",
+    "name": {
+      "ht": "Chenn Natirèl",
+      "fr": "Chêne Naturel",
+      "en": "Natural Oak"
+    },
+    "color": "#DEB887",
+    "description": {
+      "ht": "Grenn chenn ak koulè natirèl",
+      "fr": "Grain de chêne aux couleurs naturelles",
+      "en": "Oak grain with natural colors"
+    },
+    "category": "wood-grain"
+  },
+  {
+    "id": "grey-modern",
+    "name": {
+      "ht": "Gri Modèn",
+      "fr": "Gris Moderne",
+      "en": "Modern Grey"
+    },
+    "color": "#708090",
+    "description": {
+      "ht": "Koulè gri modèn ak estil kontemporè",
+      "fr": "Couleur grise moderne au style contemporain",
+      "en": "Modern grey color with contemporary style"
+    },
+    "category": "solid"
+  },
+  {
+    "id": "black-matte",
+    "name": {
+      "ht": "Nwa Mat",
+      "fr": "Noir Mat",
+      "en": "Matte Black"
+    },
+    "color": "#2F2F2F",
+    "description": {
+      "ht": "Nwa ak fini mat, elegant ak modèn",
+      "fr": "Noir avec finition mate, élégant et moderne",
+      "en": "Black with matte finish, elegant and modern"
+    },
+    "category": "solid"
+  },
+  {
+    "id": "walnut-dark",
+    "name": {
+      "ht": "Nwa Foncé",
+      "fr": "Noyer Foncé",
+      "en": "Dark Walnut"
+    },
+    "color": "#654321",
+    "description": {
+      "ht": "Grenn nwa ak koulè foncé ak rich",
+      "fr": "Grain de noyer aux couleurs foncées et riches",
+      "en": "Walnut grain with dark and rich colors"
+    },
+    "category": "wood-grain"
+  },
+  {
+    "id": "stainless-steel",
+    "name": {
+      "ht": "Asye Inoksidab",
+      "fr": "Acier Inoxydable",
+      "en": "Stainless Steel"
+    },
+    "color": "#C0C0C0",
+    "description": {
+      "ht": "Imitasyon asye inoksidab pou kizin modèn",
+      "fr": "Imitation acier inoxydable pour cuisines modernes",
+      "en": "Stainless steel imitation for modern kitchens"
+    },
+    "category": "metallic"
+  }
+]

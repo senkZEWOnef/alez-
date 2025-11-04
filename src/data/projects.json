@@ -1,0 +1,152 @@
+[
+  {
+    "id": "modern-kitchen-pap",
+    "title": {
+      "ht": "Kizin Modèn nan Pòtoprens",
+      "fr": "Cuisine Moderne à Port-au-Prince",
+      "en": "Modern Kitchen in Port-au-Prince"
+    },
+    "description": {
+      "ht": "Transfòmasyon konplè kizin nan kay fanmi nan Pòtoprens ak kabann PVC blan ak gri.",
+      "fr": "Transformation complète d'une cuisine familiale à Port-au-Prince avec armoires PVC blanches et grises.",
+      "en": "Complete transformation of a family kitchen in Port-au-Prince with white and grey PVC cabinets."
+    },
+    "category": "kitchen",
+    "location": "Port-au-Prince, Haiti",
+    "beforeImage": "/images/projects/modern-kitchen-pap-before.jpg",
+    "afterImage": "/images/projects/modern-kitchen-pap-after.jpg",
+    "features": [
+      "Kabann PVC 100% waterproof",
+      "LED lighting integrated",
+      "Granite countertops",
+      "Soft-close doors"
+    ],
+    "completionDate": "2024-08-15",
+    "size": "18m²"
+  },
+  {
+    "id": "luxury-vanity-bathroom-cap",
+    "title": {
+      "ht": "Vanity ak Salbeyen Liks nan Kap",
+      "fr": "Vanité et Salle de Bain Luxueuse au Cap",
+      "en": "Luxury Vanity and Bathroom in Cap-Haïtien"
+    },
+    "description": {
+      "ht": "Vanity double ak miroir entegre ak kabann salbeyen PVC ak fini acajou ak akseswa modèn nan yon kay nan Kap-Ayisyen.",
+      "fr": "Vanité double avec miroir intégré et armoires de salle de bain PVC avec finition acajou et accessoires modernes dans une maison au Cap-Haïtien.",
+      "en": "Double vanity with integrated mirror and PVC bathroom cabinets with mahogany finish and modern accessories in a home in Cap-Haïtien."
+    },
+    "category": "bathroom",
+    "location": "Cap-Haïtien, Haiti",
+    "beforeImage": "/images/projects/luxury-vanity-bathroom-cap-before.jpg",
+    "afterImage": "/images/projects/luxury-vanity-bathroom-cap-after.jpg",
+    "features": [
+      "Double vanity design",
+      "Moisture resistant PVC",
+      "Custom mirror integration",
+      "Hidden storage solutions"
+    ],
+    "completionDate": "2024-07-22",
+    "size": "12m²"
+  },
+  {
+    "id": "compact-kitchen-jacmel",
+    "title": {
+      "ht": "Kizin Konpak nan Jakmèl",
+      "fr": "Cuisine Compacte à Jacmel",
+      "en": "Compact Kitchen in Jacmel"
+    },
+    "description": {
+      "ht": "Solisyon kizin ti espas ak kabann PVC ak maksimòm depo nan yon apatman nan Jakmèl.",
+      "fr": "Solution cuisine petit espace avec armoires PVC et maximum de rangement dans un appartement à Jacmel.",
+      "en": "Small space kitchen solution with PVC cabinets and maximum storage in an apartment in Jacmel."
+    },
+    "category": "kitchen",
+    "location": "Jacmel, Haiti",
+    "beforeImage": "/images/projects/compact-kitchen-jacmel-before.jpg",
+    "afterImage": "/images/projects/compact-kitchen-jacmel-after.jpg",
+    "features": [
+      "Space-optimized design",
+      "Pull-out drawers",
+      "Corner cabinet solutions",
+      "Easy maintenance PVC"
+    ],
+    "completionDate": "2024-09-03",
+    "size": "12m²"
+  },
+  {
+    "id": "office-desk-gonaives",
+    "title": {
+      "ht": "Biwo ak Standing Desk nan Gonayiv",
+      "fr": "Bureau et Standing Desk aux Gonaïves",
+      "en": "Office Desk and Standing Desk in Gonaïves"
+    },
+    "description": {
+      "ht": "Biwo ak standing desk PVC ak sistèm depo pou yon konpayi nan Gonayiv. Fini ak couleur entreprise yo.",
+      "fr": "Bureau et standing desk PVC avec système de rangement pour une entreprise aux Gonaïves. Finition aux couleurs corporate.",
+      "en": "PVC office desk and standing desk with storage system for a company in Gonaïves. Corporate color finish."
+    },
+    "category": "office",
+    "location": "Gonaïves, Haiti",
+    "beforeImage": "/images/projects/office-desk-gonaives-before.jpg",
+    "afterImage": "/images/projects/office-desk-gonaives-after.jpg",
+    "features": [
+      "Adjustable standing desk",
+      "Integrated cable management",
+      "Ergonomic design",
+      "Climate resistant PVC"
+    ],
+    "completionDate": "2024-06-18",
+    "size": "15m²"
+  },
+  {
+    "id": "master-walk-in-closet-pap",
+    "title": {
+      "ht": "Walk-in Closet Prensipal nan Pòtoprens",
+      "fr": "Walk-in Closet Principal à Port-au-Prince",
+      "en": "Master Walk-in Closet in Port-au-Prince"
+    },
+    "description": {
+      "ht": "Walk-in closet ak sistèm òganizasyon konplè PVC ak etalaj, tivo ak baton pann. Conception custom ak lumière LED.",
+      "fr": "Walk-in closet avec système d'organisation complet PVC avec étagères, tiroirs et barres de suspension. Conception sur mesure avec éclairage LED.",
+      "en": "Walk-in closet with complete PVC organization system with shelves, drawers and hanging rods. Custom design with LED lighting."
+    },
+    "category": "closet",
+    "location": "Port-au-Prince, Haiti",
+    "beforeImage": "/images/projects/master-walk-in-closet-pap-before.jpg",
+    "afterImage": "/images/projects/master-walk-in-closet-pap-after.jpg",
+    "features": [
+      "Custom walk-in design",
+      "Multiple hanging zones",
+      "Shoe and accessory storage",
+      "LED lighting integration"
+    ],
+    "completionDate": "2024-08-30",
+    "size": "18m²"
+  },
+  {
+    "id": "restaurant-kitchen-cayes",
+    "title": {
+      "ht": "Kizin Restoran nan Okay",
+      "fr": "Cuisine Restaurant aux Cayes",
+      "en": "Restaurant Kitchen in Les Cayes"
+    },
+    "description": {
+      "ht": "Kabann kizin komèsyal ak PVC ak sistèm sanitè yo egzije nan yon restoran nan Okay.",
+      "fr": "Armoires cuisine commerciale en PVC avec systèmes sanitaires requis dans un restaurant aux Cayes.",
+      "en": "Commercial kitchen cabinets in PVC with required sanitary systems in a restaurant in Les Cayes."
+    },
+    "category": "kitchen",
+    "location": "Les Cayes, Haiti",
+    "beforeImage": "/images/projects/restaurant-kitchen-cayes-before.jpg",
+    "afterImage": "/images/projects/restaurant-kitchen-cayes-after.jpg",
+    "features": [
+      "Commercial grade PVC",
+      "Health code compliant",
+      "Easy sanitization",
+      "Heavy duty construction"
+    ],
+    "completionDate": "2024-07-10",
+    "size": "35m²"
+  }
+]

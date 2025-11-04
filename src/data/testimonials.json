@@ -1,0 +1,72 @@
+[
+  {
+    "id": "marie-claude-pap",
+    "name": "Marie-Claude Joseph",
+    "location": "Port-au-Prince",
+    "rating": 5,
+    "content": {
+      "ht": "Depi nou enstale kabann PVC yo nan 2023, nou pa gen okenn pwoblèm. Yo toujou bèl ak pwòp, menm nan sezon lapli yo. Nou rekòmande Zewo ak tout kè nou.",
+      "fr": "Depuis que nous avons installé les armoires PVC en 2023, nous n'avons eu aucun problème. Elles sont toujours belles et propres, même pendant les saisons de pluie. Nous recommandons Zewo de tout cœur.",
+      "en": "Since we installed the PVC cabinets in 2023, we haven't had any problems. They're always beautiful and clean, even during the rainy seasons. We wholeheartedly recommend Zewo."
+    },
+    "avatar": "/images/testimonials/marie-claude.jpg",
+    "date": "2024-09-15",
+    "verified": true
+  },
+  {
+    "id": "jean-robert-cap",
+    "name": "Jean-Robert Michel",
+    "location": "Cap-Haïtien",
+    "rating": 5,
+    "content": {
+      "ht": "Kizin nou an gen yon ane depi yo enstale kabann yo. Yo dire anpil pase kabann bwa nou te gen avan yo. Pa gen termit, pa gen pwoblèm imidite. Bon travay!",
+      "fr": "Notre cuisine a un an depuis l'installation des armoires. Elles durent beaucoup plus que les armoires en bois que nous avions avant. Pas de termites, pas de problèmes d'humidité. Bon travail !",
+      "en": "Our kitchen is one year old since the cabinet installation. They last much longer than the wooden cabinets we had before. No termites, no humidity problems. Good work!"
+    },
+    "avatar": "/images/testimonials/jean-robert.jpg",
+    "date": "2024-08-22",
+    "verified": true
+  },
+  {
+    "id": "rose-marie-jacmel",
+    "name": "Rose-Marie Pierre",
+    "location": "Jacmel",
+    "rating": 5,
+    "content": {
+      "ht": "Mwen te pè paske se premye fwa m ap achte kabann PVC. Men yo depase tou sa m te atann! Yo bèl, yo pratik, epi yo pa gen okenn odè. Ekip Zewo a te pwofesyonèl nèt.",
+      "fr": "J'avais peur car c'était la première fois que j'achetais des armoires PVC. Mais elles ont dépassé toutes mes attentes ! Elles sont belles, pratiques, et n'ont aucune odeur. L'équipe Zewo était très professionnelle.",
+      "en": "I was worried because it was my first time buying PVC cabinets. But they exceeded all my expectations! They're beautiful, practical, and have no odor. The Zewo team was very professional."
+    },
+    "avatar": "/images/testimonials/rose-marie.jpg", 
+    "date": "2024-07-18",
+    "verified": true
+  },
+  {
+    "id": "paul-emmanuel-gonaives",
+    "name": "Paul-Emmanuel Desir",
+    "location": "Gonaïves",
+    "rating": 5,
+    "content": {
+      "ht": "Nan biznis mwen an, nou bezwen bagay ki pwòp ak ki pa gen pwoblèm. Kabann PVC Zewo yo pèfè pou sa. Kliyann yo gade yo ak admiration chak fwa.",
+      "fr": "Dans mon business, nous avons besoin de choses propres et sans problèmes. Les armoires PVC Zewo sont parfaites pour cela. Les clients les regardent avec admiration à chaque fois.",
+      "en": "In my business, we need things that are clean and problem-free. Zewo PVC cabinets are perfect for that. Customers look at them with admiration every time."
+    },
+    "avatar": "/images/testimonials/paul-emmanuel.jpg",
+    "date": "2024-06-25",
+    "verified": true
+  },
+  {
+    "id": "michele-santos-cayes",
+    "name": "Michèle Santos",
+    "location": "Les Cayes",
+    "rating": 5,
+    "content": {
+      "ht": "Apre siklòn lan, kabann bwa yo nan kay la yo te gen anpil dega. Nou deside pou kabann PVC yo ak Zewo. Koulye a nou gen kè poze paske nou konnen yo ka reziste tanpèt yo.",
+      "fr": "Après le cyclone, les armoires en bois de la maison avaient beaucoup de dégâts. Nous avons décidé pour les armoires PVC avec Zewo. Maintenant nous avons l'esprit tranquille car nous savons qu'elles peuvent résister aux tempêtes.",
+      "en": "After the hurricane, the wooden cabinets in the house had a lot of damage. We decided on PVC cabinets with Zewo. Now we have peace of mind because we know they can withstand storms."
+    },
+    "avatar": "/images/testimonials/michele.jpg",
+    "date": "2024-05-12",
+    "verified": true
+  }
+]
