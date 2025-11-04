@@ -36,15 +36,15 @@ export function Navbar() {
 
   return (
     <nav className="bg-white dark:bg-dark shadow-soft sticky top-0 z-50">
-      <div className="container mx-auto px-4">
-        <div className="flex justify-between items-center h-16">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between items-center h-16 md:h-20">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-primary-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">Z</span>
+          <Link to="/" className="flex items-center space-x-2 sm:space-x-3">
+            <div className="w-8 h-8 sm:w-10 sm:h-10 bg-primary-500 rounded-lg flex items-center justify-center flex-shrink-0">
+              <span className="text-white font-bold text-sm sm:text-lg">Z</span>
             </div>
-            <div>
-              <div className="font-bold text-gray-900 dark:text-white text-lg">
+            <div className="min-w-0">
+              <div className="font-bold text-gray-900 dark:text-white text-sm sm:text-lg leading-tight truncate">
                 PVC Cabinets Haiti
               </div>
               <div className="text-xs text-primary-500 font-medium">by Zewo</div>
