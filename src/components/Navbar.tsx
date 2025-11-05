@@ -52,12 +52,12 @@ export function Navbar() {
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-8">
+          <div className="hidden lg:flex items-center space-x-6 xl:space-x-8">
             {navItems.map((item) => (
               <Link
                 key={item.key}
                 to={item.href}
-                className="text-gray-700 dark:text-gray-300 hover:text-primary-500 transition-colors font-medium"
+                className="text-gray-700 dark:text-gray-300 hover:text-primary-500 transition-colors font-medium text-sm xl:text-base"
               >
                 {t(`nav.${item.key}`)}
               </Link>
@@ -65,21 +65,24 @@ export function Navbar() {
           </div>
 
           {/* Actions */}
-          <div className="hidden md:flex items-center space-x-4">
+          <div className="hidden md:flex items-center space-x-2 lg:space-x-4">
             {/* Language Selector */}
             <div className="relative">
               <button
                 onClick={() => setShowLanguageMenu(!showLanguageMenu)}
-                className="flex items-center space-x-1 px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+                className="flex items-center space-x-1 px-2 lg:px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
               >
                 <Globe className="w-4 h-4" />
-                <span className="text-sm font-medium">
+                <span className="text-xs lg:text-sm font-medium hidden lg:inline">
                   {languages.find(l => l.code === language)?.flag} {languages.find(l => l.code === language)?.name}
+                </span>
+                <span className="text-xs font-medium lg:hidden">
+                  {languages.find(l => l.code === language)?.flag}
                 </span>
               </button>
               
               {showLanguageMenu && (
-                <div className="absolute right-0 mt-2 w-36 bg-white dark:bg-gray-800 rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 py-1">
+                <div className="absolute right-0 mt-2 w-32 lg:w-36 bg-white dark:bg-gray-800 rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 py-1 z-50">
                   {languages.map((lang) => (
                     <button
                       key={lang.code}
@@ -101,46 +104,54 @@ export function Navbar() {
             </div>
 
             {/* WhatsApp Button */}
-            <Button variant="whatsapp" size="sm" onClick={handleWhatsApp} icon={MessageCircle}>
-              WhatsApp
+            <Button variant="whatsapp" size="sm" onClick={handleWhatsApp} icon={MessageCircle} className="text-xs lg:text-sm px-2 lg:px-4">
+              <span className="hidden lg:inline">WhatsApp</span>
+              <span className="lg:hidden">WA</span>
             </Button>
 
             {/* Quote Button */}
-            <Button variant="primary" size="sm">
-              <Link to="/quote">{t('nav.quote')}</Link>
+            <Button variant="primary" size="sm" className="text-xs lg:text-sm px-2 lg:px-4">
+              <Link to="/quote">
+                <span className="hidden lg:inline">{t('nav.quote')}</span>
+                <span className="lg:hidden">Devis</span>
+              </Link>
             </Button>
           </div>
 
           {/* Mobile menu button */}
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="md:hidden p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+            className="md:hidden p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors flex items-center justify-center"
+            aria-label="Toggle mobile menu"
           >
-            {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+            {isOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
           </button>
         </div>
 
         {/* Mobile Navigation */}
         {isOpen && (
-          <div className="md:hidden border-t border-gray-200 dark:border-gray-700 py-4">
-            <div className="flex flex-col space-y-4">
-              {navItems.map((item) => (
-                <Link
-                  key={item.key}
-                  to={item.href}
-                  onClick={() => setIsOpen(false)}
-                  className="text-gray-700 dark:text-gray-300 hover:text-primary-500 transition-colors font-medium px-4 py-2"
-                >
-                  {t(`nav.${item.key}`)}
-                </Link>
-              ))}
+          <div className="md:hidden border-t border-gray-200 dark:border-gray-700 bg-white dark:bg-dark">
+            <div className="max-h-screen overflow-y-auto">
+              {/* Navigation Links */}
+              <div className="py-2">
+                {navItems.map((item) => (
+                  <Link
+                    key={item.key}
+                    to={item.href}
+                    onClick={() => setIsOpen(false)}
+                    className="block text-gray-700 dark:text-gray-300 hover:text-primary-500 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors font-medium px-4 py-3 border-b border-gray-100 dark:border-gray-700 last:border-b-0"
+                  >
+                    {t(`nav.${item.key}`)}
+                  </Link>
+                ))}
+              </div>
               
               {/* Mobile Language Selector */}
-              <div className="px-4 py-2">
-                <div className="text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">
+              <div className="px-4 py-4 border-t border-gray-200 dark:border-gray-700">
+                <div className="text-sm font-medium text-gray-600 dark:text-gray-400 mb-3">
                   {t('nav.language') || 'Language'}
                 </div>
-                <div className="flex space-x-2">
+                <div className="grid grid-cols-3 gap-2">
                   {languages.map((lang) => (
                     <button
                       key={lang.code}
@@ -149,31 +160,34 @@ export function Navbar() {
                         setIsOpen(false)
                       }}
                       className={cn(
-                        'flex items-center space-x-1 px-3 py-2 rounded-lg text-sm transition-colors',
+                        'flex items-center justify-center space-x-1 px-2 py-2 rounded-lg text-sm transition-colors',
                         language === lang.code 
                           ? 'bg-primary-500 text-white' 
                           : 'bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700'
                       )}
                     >
-                      <span>{lang.flag}</span>
-                      <span>{lang.name}</span>
+                      <span className="text-lg">{lang.flag}</span>
+                      <span className="text-xs font-medium">{lang.name}</span>
                     </button>
                   ))}
                 </div>
               </div>
 
               {/* Mobile Action Buttons */}
-              <div className="px-4 space-y-3">
+              <div className="px-4 py-4 space-y-3 border-t border-gray-200 dark:border-gray-700">
                 <Button 
                   variant="whatsapp" 
-                  className="w-full" 
-                  onClick={handleWhatsApp}
+                  className="w-full text-base py-3" 
+                  onClick={() => {
+                    handleWhatsApp()
+                    setIsOpen(false)
+                  }}
                   icon={MessageCircle}
                 >
                   WhatsApp
                 </Button>
-                <Button variant="primary" className="w-full">
-                  <Link to="/quote" onClick={() => setIsOpen(false)}>
+                <Button variant="primary" className="w-full text-base py-3">
+                  <Link to="/quote" onClick={() => setIsOpen(false)} className="block w-full">
                     {t('nav.quote')}
                   </Link>
                 </Button>

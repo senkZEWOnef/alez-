@@ -2,6 +2,8 @@ import { Routes, Route } from 'react-router-dom'
 import { Navbar } from './components/Navbar'
 import { Footer } from './components/Footer'
 import { Home } from './routes/Home'
+import { Contact } from './routes/Contact'
+import { Quote } from './routes/Quote'
 
 function App() {
   return (
@@ -17,8 +19,8 @@ function App() {
           <Route path="/partners" element={<div className="p-8 text-center">Partners Page - Coming Soon</div>} />
           <Route path="/about" element={<div className="p-8 text-center">About Page - Coming Soon</div>} />
           <Route path="/blog" element={<div className="p-8 text-center">Blog Page - Coming Soon</div>} />
-          <Route path="/contact" element={<div className="p-8 text-center">Contact Page - Coming Soon</div>} />
-          <Route path="/quote" element={<div className="p-8 text-center">Quote Page - Coming Soon</div>} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/quote" element={<Quote />} />
           <Route path="*" element={<div className="p-8 text-center">404 - Page Not Found</div>} />
         </Routes>
       </main>
